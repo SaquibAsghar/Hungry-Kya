@@ -1,0 +1,26 @@
+{
+  "name": "react-with-parcel",
+  "version": "1.0.0",
+  "description": "React with Parcel",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaquibAsghar/React-with-Parcel.git"
+  },
+  "author": "Syed Saquib Asghar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaquibAsghar/React-with-Parcel/issues"
+  },
+  "homepage": "https://github.com/SaquibAsghar/React-with-Parcel#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
