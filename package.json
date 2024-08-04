@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "React with Parcel",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start-parcel--dev": "parcel index.html",
+    "build-parcel--prod": "parcel build index.html"
   },
   "repository": {
     "type": "git",
