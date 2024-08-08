@@ -1,6 +1,10 @@
 import React from "react";
 
-const Header = () => <h1>React With Parcel ⚛️ + 📦 = 🚀 </h1>;
+const Header = () => (
+  <h1 className="text-3xl font-bold underline">
+    React With Parcel ⚛️ + 📦 = 🚀{" "}
+  </h1>
+);
 
 const Description = () => (
   <>
