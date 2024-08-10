@@ -1,1 +1,1 @@
-export { rootRouter } from "./route";
+export { rootRouter } from "./main-route";
